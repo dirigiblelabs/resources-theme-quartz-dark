@@ -15,6 +15,6 @@ exports.getTheme = function () {
 		'name': 'Quartz Dark',
 		'type': 'dark',
 		'oldThemeId': 'default',
-		'links': ['/webjars/sap-theming__theming-base-content/11.1.34/content/Base/baseLib/sap_fiori_3_dark/css_variables.css']
+		'links': ['/webjars/sap-theming__theming-base-content/11.1.35/content/Base/baseLib/sap_fiori_3_dark/css_variables.css']
 	};
 };
