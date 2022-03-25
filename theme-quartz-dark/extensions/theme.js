@@ -14,7 +14,11 @@ exports.getTheme = function () {
 		'module': 'theme-quartz-dark',
 		'name': 'Quartz Dark',
 		'type': 'dark',
+		'version': 1,
 		'oldThemeId': 'default',
-		'links': ['/webjars/sap-theming__theming-base-content/11.1.35/content/Base/baseLib/sap_fiori_3_dark/css_variables.css']
+		'links': [
+			'/webjars/sap-theming__theming-base-content/11.1.36/content/Base/baseLib/sap_fiori_3_dark/css_variables.css',
+			'/webjars/fundamental-styles/0.23.0/dist/theming/sap_fiori_3_dark.css',
+		]
 	};
 };
